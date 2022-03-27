@@ -1,4 +1,3 @@
-"""---------------------------------------------------------------------------------------------
 	Purpose:  This program will find the value of the european call option and put option on the underlyting assest S that 
                follows a geometric brownian motion through the fourier series by using Fast Fourier Transform.
 	            
@@ -27,4 +26,3 @@
             parametrs are different.
                      
                      
-	---------------------------------------------------------------------------------------------"""
